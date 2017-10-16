@@ -1,0 +1,59 @@
+1507690712164	geckodriver	INFO	geckodriver 0.19.0
+1507690712171	geckodriver	INFO	Listening on 127.0.0.1:52881
+1507690714317	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.gtD96tCYq9iT"
+1507690715590	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507690716148	Marionette	INFO	Enabled via --marionette
+1507690719481	Marionette	INFO	Listening on port 52887
+1507690719608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507690719645	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 4172] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13104] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4504] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507690722371	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1507690722376	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1507704944199	geckodriver	INFO	geckodriver 0.19.0
+1507704944205	geckodriver	INFO	Listening on 127.0.0.1:61490
+1507704946258	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.eRnrsAkcmW6x"
+1507704947538	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507704948207	Marionette	INFO	Enabled via --marionette
+1507704951628	Marionette	INFO	Listening on port 61501
+1507704952041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507704952075	Marionette	DEBUG	Register listener.js for window 4294967297
+1507704952094	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507704952248	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507704952248	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507704952885	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1507704953642	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1507705075991	geckodriver	INFO	geckodriver 0.19.0
+1507705075999	geckodriver	INFO	Listening on 127.0.0.1:61788
+1507705078040	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.IEOV84teQ5Dn"
+1507705079299	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507705079838	Marionette	INFO	Enabled via --marionette
+[Child 15672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507705083522	Marionette	INFO	Listening on port 61799
+1507705083818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507705083853	Marionette	DEBUG	Register listener.js for window 4294967297
+1507705083870	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507705084014	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507705084014	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507705084502	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1507705085330	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1507705112832	geckodriver	INFO	geckodriver 0.19.0
+1507705112840	geckodriver	INFO	Listening on 127.0.0.1:61933
+1507705114895	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.pFFkA9WklV4N"
+1507705116156	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507705116815	Marionette	INFO	Enabled via --marionette
+[Child 6692] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507705120154	Marionette	INFO	Listening on port 61941
+1507705120186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507705120223	Marionette	DEBUG	Register listener.js for window 4294967297
+1507705120259	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507705120414	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507705120415	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507705120719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1507705121368	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
